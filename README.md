@@ -1,4 +1,4 @@
- #Credit-Wise Loan Prediction System
+ #Credit-Wise Loan System
 
 📌 Project Overview
 
